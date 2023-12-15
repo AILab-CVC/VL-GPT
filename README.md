@@ -61,7 +61,7 @@ VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understandi
 
 
 
-* VL-GPT is a generative pre-trained transformer model for vision and language understanding and generation task, which can perceive and generate visual and linguistic data concurrently. By employing a straightforward auto-regressive objective, VL-GPT achieves a unified pre-training for both image and text modalities.
+* VL-GPT is a generative pre-trained transformer model for vision and language understanding and generation tasks, which can perceive and generate visual and linguistic data concurrently. By employing a straightforward auto-regressive objective, VL-GPT achieves a unified pre-training for both image and text modalities.
 
 * We also propose an image tokenizer-detokenizer framework for the conversion between raw images and continuous visual embeddings, analogous to the role of the BPE tokenization in language models.
 
