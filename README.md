@@ -49,7 +49,7 @@ VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understandi
     <sup>*</sup> Equal Contribution&emsp;
 </div>
 
-<a href="https://arxiv.org"><img src="https://img.shields.io/badge/Paper-PDF-orange"></a> 
+<a href="https://arxiv.org/abs/2312.09251"><img src="https://img.shields.io/badge/Paper-PDF-orange"></a> 
 <a href="#LICENSE--citation">
   <img alt="License: Apache2.0" src="https://img.shields.io/badge/LICENSE-Apache%202.0-blue.svg"/>
 </a>
