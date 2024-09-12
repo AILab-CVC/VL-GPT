@@ -2,10 +2,14 @@
 
 VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation
 
+## Project Termination 
+We regret to inform that the project (VL-GPT) has been terminated. Unfortunately, the authors Jinguo and Xiaohan left the company and did not manage to refactor the codebase before their checkout. As a result, the source code and weights for this work cannot be released.
 
+However, the main contribution from this work, an image tokenizer with continuous embedding and applying it in Large Multimodal Model, has also been  adopted in another project within our team called [SEED-X](https://github.com/AILab-CVC/SEED-X), which has been made open source already. We recommend to refer to the [SEED-X](https://github.com/AILab-CVC/SEED-X) project for insights and implementation details.
 
+We sincerely apologize for not being able to release this work as an open-source project. Thank you for your understanding.
 
-
+## Introduction
 
 <div align="center">
     <span class="author-block">
@@ -66,10 +70,6 @@ VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understandi
 * We also propose an image tokenizer-detokenizer framework for the conversion between raw images and continuous visual embeddings, analogous to the role of the BPE tokenization in language models.
 
 
-## TODOs
-
-- [ ] Training and evaluation code
-- [ ] Pretrained and instruction-tuned model weights
 
 
 
